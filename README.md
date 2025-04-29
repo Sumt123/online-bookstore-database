@@ -1,8 +1,19 @@
 #   Online Bookstore Database
+This README documents the analysis of the OnlineBookstore database.
+
+**Author:** Sumit Yadav
+**GitHub:** [https://github.com/sumit123](https://github.com/sumit123)
+**LinkedIn:** [https://www.linkedin.com/in/sumit-yadav-888a14284](https://www.linkedin.com/in/sumit-yadav-888a14284)
 
 ##   Project Overview
 
     This SQL project provides a database solution for managing an online bookstore. It includes tables for storing information about books, customers, and orders, along with queries to retrieve and analyze data related to sales, customers, and inventory.
+
+* **Purpose and Audience:**
+
+* **Purpose:** This project was created to demonstrate my SQL proficiency and data analysis skills in a practical, business-oriented context. It showcases my ability to design a relational database, extract meaningful insights from data, and present findings in a clear and concise manner.
+* **Target Audience:** The primary audience for this project is potential employers, particularly hiring managers and recruiters in the field of data analysis. It is intended to illustrate my capabilities in database management, data manipulation, and business intelligence, relevant to data analyst roles.
+
 
 ##   Database Summary
 
